@@ -8,7 +8,7 @@ Faker is a library in PHP that can generate fake sample data.
 - **`PHP or XAMPP (Latest Version)`** - required for the database.
 
 ## Installation
-1. In **Command Prompt**, Run the command `composer req fzaninotto/faker` in your current folder to install Faker.
+1. In **Command Prompt**, run the command `composer req fzaninotto/faker` in your current folder to install Faker.
 2. Start running the files. 
 3. And **that's it**!
 
