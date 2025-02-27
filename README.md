@@ -13,7 +13,8 @@ Faker is a library in PHP that can generate fake sample data.
 3. And **that's it**!
 
 ## Notes
-- Use **`XAMPP`** to run the PHP files inside the folders, since the files contains HTML and Bootstrap elements. 
+- Use **`XAMPP`** to run the PHP files inside the folders, since the files contains HTML and Bootstrap elements.
+- Move the files to the **`htdocs`** folder inside your XAMPP folder *(C:\xampp or the destination path of your XAMPP)*.
 - To run inside the `faker with db` folder, use the **`index.php`** instead of **`conn.php`** (database connection).
 
 ***
