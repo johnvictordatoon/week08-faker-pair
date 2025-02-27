@@ -1,4 +1,4 @@
-# Generating Fake Data using Faker (Week 8)
+# Generating Fake Data Using Faker (Week 8)
 
 Faker is a library in PHP that can generate fake sample data.
 ***
